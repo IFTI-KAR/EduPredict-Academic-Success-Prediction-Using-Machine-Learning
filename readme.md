@@ -1,16 +1,4 @@
-# EduPredict: Academic Success Prediction Using Machine Learning
 
-## Alternative Project Names
-1. **EduPredict** *(Recommended)*
-2. Student Success Analytics
-3. Smart Academic Outcome Predictor
-4. Campus Insight ML
-5. Academic Performance Intelligence System
-6. Student Retention Predictor
-7. FuturePath ML
-8. Academic Outcome Classification System
-
----
 
 # EduPredict
 ### Academic Success Prediction Using Machine Learning
